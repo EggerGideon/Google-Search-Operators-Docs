@@ -31,18 +31,15 @@ How to use operators:
   ## How to use this documentation
   </summary>
 
-This documentation is divided into sections based on the type of operator. 
+This documentation is divided into sections based on the type of operator.
 
-Have a look at Table of Contents down below:
-All operators are listed in the table of contents. 
+Have a look at the Table of Contents below; all operators are listed.
 
-The most commonly used operators are listed first in a table for quick reference.
-After that comes a section with examples of how to use operators in real world scenarios. (This section is still work in progress)
+The most commonly used operators are listed first in a table for quick reference. Following that is a section with examples of how to use operators in real-world scenarios (this section is still a work in progress).
 
-After that comes a section with a cheat sheet for all operators.
+After that, there is a section with a cheat sheet for all operators.
 
-For more exlanation on the operator itself, there is a section for each operator that consists of a description, syntax and examples.
-Every examples is a link to Google searche, so you can try it out yourself without having to copy and paste the query.
+For more explanation on each operator, there is a section dedicated to each one, consisting of a description, syntax, and examples. Every example is a link to a Google search, allowing you to try it out yourself without having to copy and paste the query.
 </details>
 
 ## Disclaimer
