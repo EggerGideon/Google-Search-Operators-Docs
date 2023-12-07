@@ -16,7 +16,7 @@ Where to use operators:
 * in the search bar of the browser
 * in the search bar of a search engine
 
-*Note: not all search engines support operators or use other operators*
+*Note: not all search engines support operators or use other operators* <br>
 *Note 2: some websites may use operators for their own search function, but this documentation is only about search engines*
 
 <br>
@@ -41,8 +41,8 @@ After that comes a section with examples of how to use operators in real world s
 
 After that comes a section with a cheat sheet for all operators.
 
-For more exlanation on the operator itself, there is a section for each operator that consists of a description, syntax, and examples.
-Ever examples is a link to Google searche, so you can try it out yourself without having to copy and paste the query.
+For more exlanation on the operator itself, there is a section for each operator that consists of a description, syntax and examples.
+Every examples is a link to Google searche, so you can try it out yourself without having to copy and paste the query.
 </details>
 
 ## Disclaimer
