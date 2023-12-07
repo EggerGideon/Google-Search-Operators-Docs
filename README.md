@@ -15,7 +15,9 @@ This documentation provides a comprehensive list of Google Search Operators, alo
 Where to use operators:
 * in the search bar of the browser
 * in the search bar of a search engine
+<br>
 *Note: not all search engines support operators or use other operators*
+<br>
 *Note 2: some websites may use operators for their own search function, but this documentation is only about search engines*
 
 How to use operators:
